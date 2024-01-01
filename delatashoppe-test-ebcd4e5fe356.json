@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "delatashoppe-test",
+  "private_key_id": "ebcd4e5fe35613bec29ab814fb14ef24c5cf6588",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDrUDcciOeWvJJU\noRyQdEAhj95wl3LqOvUGBtgS4TbZjfAou2xfXlVJCZu2LuT26OXV17c/2zXLgHS4\nK8J3H2KZHC02XbaF7TtugpMTXB4xJw9xo2TRZgUUcqvullZJQKXEHgZr7m9bo5JM\njMITDrmal+qn1yRtIQ0q5X5f5f540G7vFmABSjNGux5MU09T76Y69vpuELzH7KXq\nZjhqbeiNPXb8AsTRFo1+tlZ/AN5OFd1d0hGR0IBxxb7IMENg5Hmf/c63vSQNstC2\nDH64XBIK1775bxALrWQ3HxUR8Hof579m3qu33Mvj0sCJIZstuZrBMphJiB+RHXrb\ni/uZO5L9AgMBAAECggEAIdT2H4GlflwdU9KYJ0K3h7vGGP0FVhzk5plsToaX2r6Y\nBVsxESMgcvBRNWfXnpJMnSq3G5S6Tshov6P3ASZ/iBDvhS4DFI1PqqtWVwW7B4kc\npNN/psWavF5iTtrJjB2h16kTdkghNZU2bxAbxR6sW8g0wi3h/Fiwqna1bTdFl3vl\nqwrlUVWOLrMCRR+BLE4GJeMjvDad4/ld/siDpTd22EN4tLE8p8Wb1ocuWs5NJSdl\nBmeB5DA+jwbJKiEfF6mcSZ5Akg1aXfIMrBhey2h/QpbweFVkBWneaVcDO1vTx2XJ\nP9466IXcDUj7bFiG1G+57VdqHWI7X8S1gitPadtL1wKBgQD3dj9YAMYJ4+eU4Nix\nBv/MUv3JV6DsJi/1eX/JFjfRzuJzVB1k3hPCg85cx79+ia5y7volNY9oNECUC/Hd\nrljLl1gbiUFp7lNk9SKKWleiKNYnQlLx8gmxM9/IN4uPbJiRY+o41SS2lLPz/p3k\n//blGMqDAGP6W34Ih7d23BSWOwKBgQDzbqnW40WzHMeHZ98iujuEpva3TnoVAAig\nn+OAqBDBx6b+RZ0YhY2qD6YwWmMv7/foxjtQJZYndhAojO9J5VUjrtbKCTkcXwS2\nxuBW+DiAexItfZjJWgvsoeqV1SKpU1+uUCEGjk+vLURM1nr8UQm7rIboVw5O3Ata\nuIzz/c8QJwKBgA+79gUbb3wbgJMHxN9kqYkNUdOmfbXmK7B4/DYF8qClfeKFW6UZ\nNbptdQaTMMrT6EKojUEmaarff6eqJsPInR68zb5aeM1KeQT3TS3s1puZ6xvt7KYz\nlIgu2zC4z2fcKMs9xhu8+aueQt7ltpZj7AffDqlLsg+uF5JlRrYJAkoXAoGBALw/\nP6elaSjxgHr9oFhCm/QhCXkHfvDubb2I521+ijbQJhtLyghEfyCbqXCK9VkEwTmI\n0iVQa6Vob2ZsVj9W0VgexIrIRxnhgMu3T5Txrv/sLEpxbc2HjOEY9UeY4oz+pGcw\nH9nqA0T8RG0HD2Q/Zr9y04Coka/6Ce3F+XpVM+LRAoGBAMyNY5ARKpytZFiic2ZI\n+1YGKwfYXF9jpkvxfr4Kkq+2vj4PJSLTS0b26914Wthu1xYzmYG6TSMCS7kGrBw+\nxsFdURrwEqZURjgh7Pn4UPiqWfp4zLF5zYDfnxifsPsgRgMDWOsjlIaDYyAstElG\nTuc09Z9kjJb38WycxgZgrX+g\n-----END PRIVATE KEY-----\n",
+  "client_email": "deltashoppe-test@delatashoppe-test.iam.gserviceaccount.com",
+  "client_id": "117055019968600688114",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deltashoppe-test%40delatashoppe-test.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
